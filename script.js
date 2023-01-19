@@ -7,9 +7,9 @@ function toggleMode() {
 
   // substituir a imagem
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/Avatar-light.png")
+    img.setAttribute("src", "./Assets/Avatar-light.png")
   } else {
-    img.setAttribute("src", "./assets/Avatar.png")
+    img.setAttribute("src", "./Assets/avatar.png")
   }
 
   // substituir a alt
