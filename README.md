@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online. 
 
+- [Visite o projeto online](https://ekho-c.github.io/Dev-Links/)
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Dd1eYkTA0JBrwfKgieMYA1/DevLinks-(Community)?node-id=90%3A160&t=ed3lUHJimoPseS2d-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
